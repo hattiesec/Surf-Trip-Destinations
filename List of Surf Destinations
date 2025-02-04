@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Surf Trip Destinations</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Surf Trip Destinations</h1>
+        <nav>
+            <ul>
+                <li><a href="index.html">Home</a></li>
+                <li><a href="surf-destinations.html">Destinations</a></li>
+                <li><a href="about.html">About</a></li>
+            </ul>
+        </nav>
+    </header>
+    
+    <section>
+        <h2>Top Surf Trip Destinations</h2>
+        <h3>1. Hawaii</h3>
+        <ul>
+            <li>Waikiki Beach</li>
+            <li>Pipeline</li>
+            <li>Sunset Beach</li>
+        </ul>
+
+        <h3>2. California</h3>
+        <ul>
+            <li>Malibu</li>
+            <li>Santa Cruz</li>
+            <li>Rincon</li>
+        </ul>
+
+        <h3>3. Bali</h3>
+        <ul>
+            <li>Kuta Beach</li>
+            <li>Uluwatu</li>
+            <li>Canggu</li>
+        </ul>
+
+        <h3>4. Australia</h3>
+        <ul>
+            <li>Bondi Beach</li>
+            <li>Byron Bay</li>
+            <li>Gold Coast</li>
+        </ul>
+    </section>
+
+    <footer>
+        <p>© 2025 Surf Trip Destinations | All Rights Reserved</p>
+    </footer>
+</body>
+</html>
