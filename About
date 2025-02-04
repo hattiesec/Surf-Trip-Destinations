@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>About Surf Trip Destinations</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>About Surf Trip Destinations</h1>
+        <nav>
+            <ul>
+                <li><a href="index.html">Home</a></li>
+                <li><a href="surf-destinations.html">Destinations</a></li>
+                <li><a href="about.html">About</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <section>
+        <h2>About Us</h2>
+        <p>Surf Trip Destinations is dedicated to providing surfers with information on the best surfing locations around the world. We aim to help you find your perfect surf spot, whether you’re looking for epic waves, tropical beaches, or vibrant surf communities. Our site offers recommendations, travel tips, and guides for surfers of all levels.</p>
+    </section>
+
+    <footer>
+        <p>© 2025 Surf Trip Destinations | All Rights Reserved</p>
+    </footer>
+</body>
+</html>
